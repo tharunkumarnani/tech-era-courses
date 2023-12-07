@@ -1,0 +1,33 @@
+.loader {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.course-bg {
+  padding: 20px;
+  font-family: Roboto;
+}
+.img-details {
+  display: flex;
+  flex-direction: row;
+  border-radius: 10px;
+  height: 60vh;
+  box-shadow: #64748b 0px 3px 10px 0px;
+}
+.course-img {
+  width: 40%;
+  height: auto;
+}
+.details {
+  width: 60%;
+  padding: 20px;
+}
+.name {
+  color: #1e293b;
+}
+.des {
+  color: #475569;
+  font-size: 20px;
+}

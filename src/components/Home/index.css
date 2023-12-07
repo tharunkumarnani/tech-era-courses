@@ -1,0 +1,21 @@
+.bg-cont {
+  padding: 20px;
+  font-family: Roboto;
+}
+.heading {
+  color: #1e293b;
+}
+.loader {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.tech-lists {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
